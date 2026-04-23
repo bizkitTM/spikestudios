@@ -5,7 +5,7 @@ const services = [
   {
     title: "Discover what to build",
     body:
-      "Before code, we get clear on the person you're serving and the change you want to create for them. Most app ideas need that work first."
+      "Before code, we get clear on the audience you're building for and the change in their world that you will make. Most app ideas need that work first."
   },
   {
     title: "Design and build with intention",
